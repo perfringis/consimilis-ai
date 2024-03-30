@@ -19,15 +19,15 @@ The Latin word:
 
 1. How to active virtualenv?
 
-sh
-```
+
+```sh
 source bin/activate
 ```
 
 2. How to deactivate virtualenv?
 
-sh
-```
+
+```sh
 deactivate
 ```
 
