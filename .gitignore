@@ -6,3 +6,8 @@ lib
 
 # config
 pyvenv.cfg
+
+# jupyter
+.ipynb_checkpoints
+etc
+share

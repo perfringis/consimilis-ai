@@ -31,9 +31,23 @@ source bin/activate
 deactivate
 ```
 
-3. How to see up-to-date libs?
+3. How to check up-to-date libs?
 
 Check `requirements.txt`
+
+4. How to update `requirements.txt` file?
+
+```sh
+pip3 freeze > requirements.txt
+```
+
+5. How to run run `jupyter notebook`?
+
+```sh
+jupyter notebook
+```
+
+> Jupyter is running at localhost:8888
 
 ## Task description
 
