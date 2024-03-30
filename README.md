@@ -15,6 +15,26 @@ The Latin word:
 > 2. *entirely similar*
 > 3. *like*
 
+## Quick start
+
+1. How to active virtualenv?
+
+sh
+```
+source bin/activate
+```
+
+2. How to deactivate virtualenv?
+
+sh
+```
+deactivate
+```
+
+3. How to see up-to-date libs?
+
+Check `requirements.txt`
+
 ## Task description
 
 I have a collection of 105 vector graphics. The graphics are available in a folder named "vector graphics". To present the problem, you can assume that it is a collection of symbols or icons.
