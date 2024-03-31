@@ -2,7 +2,7 @@
 
 **How to get the closest possible image to the original using vector graphics?**
 
-This repository will provide the answer to this complicated question. I will be archiving my learning process and all solutions will be public.
+This repository will provide the answer to this complicated question. I will be archiving my learning process and all solutions. All solutions will be available publicly.
 
 A detailed description of the task/problem is here.
 
@@ -11,21 +11,20 @@ A detailed description of the task/problem is here.
 The Latin word:
 
 > **con-sĭmĭlis**, e, adj.
-> 1. *similar in all respects*
-> 2. *entirely similar*
-> 3. *like*
+>
+> 1. _similar in all respects_
+> 2. _entirely similar_
+> 3. _like_
 
 ## Quick start
 
 1. How to active virtualenv?
-
 
 ```sh
 source bin/activate
 ```
 
 2. How to deactivate virtualenv?
-
 
 ```sh
 deactivate
