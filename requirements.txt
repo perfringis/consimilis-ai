@@ -8,12 +8,15 @@ attrs==23.2.0
 Babel==2.14.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
+cairocffi==1.6.1
+CairoSVG==2.7.1
 certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 cloudpickle==3.0.0
 comm==0.2.2
 contourpy==1.2.0
+cssselect2==0.7.0
 cycler==0.12.1
 debugpy==1.8.1
 decorator==5.1.1
@@ -57,6 +60,7 @@ nest-asyncio==1.6.0
 notebook==7.1.2
 notebook_shim==0.2.4
 numpy==1.26.4
+opencv-python==4.9.0.80
 overrides==7.7.0
 packaging==24.0
 pandocfilters==1.5.1
